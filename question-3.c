@@ -13,7 +13,7 @@ void reverse(char *str)
   
 int main()
 {
-   char a[] = "Geeks for Geeks";
+   char a[] = "UEM_KOLKATA";
    reverse(a);
    return 0;
 }
